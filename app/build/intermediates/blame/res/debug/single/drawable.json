@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a11.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a11.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timer.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\timer.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level0.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\level0.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\config.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\config.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type4.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\type4.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgh.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\bgh.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a8.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a8.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type5.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\type5.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a12.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a12.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ycm0.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\ycm0.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\money.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\money.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\c.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a7.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a7.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r3b.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\r3b.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a1.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a1.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a3.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a3.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level2.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\level2.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a6.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a6.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type6.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\type6.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r2s.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\r2s.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r4l.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\r4l.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a0.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a0.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ycm4.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\ycm4.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\ok.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ycm1.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\ycm1.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c2.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\c2.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a9.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a9.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\level.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mark.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\mark.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type3.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\type3.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c1.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\c1.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r1g.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\r1g.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level3.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\level3.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type1.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\type1.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type7.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\type7.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type2.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\type2.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\r0t.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\r0t.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\time.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c0.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\c0.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ycm3.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\ycm3.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a4.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a4.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ycm5.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\ycm5.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ycm2.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\ycm2.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reset.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a10.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a10.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\item.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a5.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a5.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a2.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\a2.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\3330MT\\.android\\build-cache\\77602a0f82a75b1825641386ed5406046ad7b2ed\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\erase.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\erase.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\score.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\score.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level1.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\level1.png"
+    },
+    {
+        "merged": "C:\\CamboApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.png",
+        "source": "C:\\CamboApp2\\app\\src\\main\\res\\drawable\\start.png"
+    }
+]

@@ -1,0 +1,22 @@
+﻿<resources>
+    <string name="app_name">Cambo2</string>
+    <string name="prod">Cambo-2  v0.1.beta</string>
+    <string name="com">(C)Yohan, 2017</string>
+    <string name="slogan">BRAIN TRAINING PUZZLE (CAMBO2 - Twins)</string>
+    <string name="title">[Grid puzzle forming symmetry/rotation]</string>
+    <string name="level1">- bilateral/vertical symmetry</string>
+    <string name="level2">- rotated(90, 180, 270) grid</string>
+    <string name="level3">- rotated/symmetric(diagonal) grid</string>
+    <string name="avatar">Grade</string>
+    <string name="money">Coin</string>
+    <string name="score">Score</string>
+    <string name="level">Level</string>
+    <string name="items">Items</string>
+    <string name="time">More Time</string>
+    <string name="mark">Mark matching</string>
+    <string name="erase">Erase matching</string>
+    <string name="reset">Reset Grade</string>
+    <string name="email">Email: cambo2@yohan.kr</string>
+    <string name="dev">(Developers: Shin HC, Im JH)</string>
+    <string name="nickname">Enter nickname(alphanumeric).</string>
+</resources>

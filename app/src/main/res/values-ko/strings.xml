@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cambo2</string>
+    <string name="prod">깜보-2  v0.1.beta</string>
+    <string name="com">(C)요한기술, 2017</string>
+    <string name="slogan">두뇌 트레이닝 퍼즐 (깜보2 - 트윈스)</string>
+    <string name="title">[대칭과 회전을 구성하는 격자 퍼즐]</string>
+    <string name="level1">- 좌우/상하 대칭 격자 만들기</string>
+    <string name="level2">- 좌우 90°/180° 회전 격자 만들기</string>
+    <string name="level3">- 회전/대칭(대각선) 격자 만들기</string>
+    <string name="avatar">등급</string>
+    <string name="money">코인</string>
+    <string name="score">점수</string>
+    <string name="level">레벨</string>
+    <string name="items">아이템</string>
+    <string name="time">시간 연장</string>
+    <string name="mark">매칭 표시</string>
+    <string name="erase">매칭 지우기</string>
+    <string name="reset">등급 초기화</string>
+    <string name="email">이메일: cambo2@yohan.kr</string>
+    <string name="dev">(개발: Shin HC, Im JH)</string>
+    <string name="nickname">닉네임을 영어로 입력하세요.</string>
+</resources>

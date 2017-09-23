@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:7:22-72
+application
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:9:5-27:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\3330MT\.android\build-cache\77602a0f82a75b1825641386ed5406046ad7b2ed\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\3330MT\.android\build-cache\ea560f10821e0eb198319ac5a82d82114a5f0ae3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\3330MT\.android\build-cache\c0bd03cb59595d5b16f934bd6f2e1a0c6372a477\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\3330MT\.android\build-cache\0631c5470b52846f4b974f92bbf7ebb9312d7d8c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\3330MT\.android\build-cache\f9c21273c8abc1003ee19b19ffd18cdc6cd451de\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\3330MT\.android\build-cache\cfe61fa9131d0958a2b9e2d422adaf1dc8cc3868\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\3330MT\.android\build-cache\cecd021cfe1bb8c18ab9d540aa5491c96cc2b03d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\3330MT\.android\build-cache\e0d18d063e33bf5a9d45ab31d94c6284d6f51715\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\3330MT\.android\build-cache\819bd5782a631fd381129e583781be233a89e9f9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\3330MT\.android\build-cache\cefb969bdcc81e61af24f6ec5d32e85f3b32c87f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:14:9-40
+activity#kr.yohan.cambo.MainActivity
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:theme
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:17:13-63
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:21:27-74
+activity#kr.yohan.cambo.SelectActivity
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:24:9-52
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:24:19-49
+activity#kr.yohan.cambo.Play1Activity
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:25:19-48
+activity#kr.yohan.cambo.CartActivity
+ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from C:\CamboApp2\app\src\main\AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\3330MT\.android\build-cache\77602a0f82a75b1825641386ed5406046ad7b2ed\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\3330MT\.android\build-cache\ea560f10821e0eb198319ac5a82d82114a5f0ae3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\3330MT\.android\build-cache\c0bd03cb59595d5b16f934bd6f2e1a0c6372a477\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\3330MT\.android\build-cache\0631c5470b52846f4b974f92bbf7ebb9312d7d8c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\3330MT\.android\build-cache\f9c21273c8abc1003ee19b19ffd18cdc6cd451de\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\3330MT\.android\build-cache\cfe61fa9131d0958a2b9e2d422adaf1dc8cc3868\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\3330MT\.android\build-cache\cecd021cfe1bb8c18ab9d540aa5491c96cc2b03d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\3330MT\.android\build-cache\e0d18d063e33bf5a9d45ab31d94c6284d6f51715\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\3330MT\.android\build-cache\819bd5782a631fd381129e583781be233a89e9f9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\3330MT\.android\build-cache\cefb969bdcc81e61af24f6ec5d32e85f3b32c87f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.markjmind.propose:propose:1.1.2] C:\Users\3330MT\.android\build-cache\950d20420f05086dfc34ffd139fff3dba53d8c41\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\3330MT\.android\build-cache\77602a0f82a75b1825641386ed5406046ad7b2ed\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\CamboApp2\app\src\main\AndroidManifest.xml
